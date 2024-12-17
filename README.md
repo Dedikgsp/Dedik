@@ -1,0 +1,2 @@
+# Dedik
+gsp
